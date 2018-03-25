@@ -1,0 +1,132 @@
+/*
+nav {
+  width: 100%;
+  background-color: white
+}
+ul.navigation {
+  list style: none;
+  margin: auto;
+  margin-top: 0
+  width: 40%
+  height: 35px
+  }
+  ul.navigation li {
+    display: inline-block;
+    float: left;
+  }
+  ul.navigation a {
+    color: black;
+    display: block;
+    padding: 10px;
+    text-decoraton:none;
+    ul.navigaton a:hoover{
+      background-color: black;
+      color: white;
+*/
+  }
+.col{
+  float: left;
+}
+.col-10 {
+  width:10%;
+}
+
+.col-20 {
+  width: 20%;
+}
+.col-30 {
+ width: 30%;
+}
+ div{
+   font-size: 30px
+   border: 1px solid black;
+}
+    img {
+      width:100%;
+    }
+    div {
+      display: inline;
+      width: 30%;
+      float: left;
+    }
+
+
+#red_herring{
+  color: red;
+}
+#orange-sherbert{
+  color: orange;
+}
+.navigation {
+    list-style: none;
+}
+  .navigation-link {
+      font-size: large;
+}
+  ul#colorful-list {
+    font-weight: bold:
+}
+    ul.navigation {
+
+    }
+
+img{
+  display: block;
+  margin; auto;
+}
+h1{
+  color: red;
+  color: #FF000;
+/* comments*/
+
+color: rgb(255, 0, 0);
+}
+h2{
+ background-color: rgb(77,88,99);
+}
+
+body{
+  background-color: rgb(77,88,99);
+}
+
+p{
+background-color: rgb(255,255,255);
+}
+
+p{
+  font-family: Arial;
+  font-family: sans-serif;
+  font-family: Arial, sans-serif;
+  font-family: "IBM Plex Serif",serif;
+  font-size:20px;
+}
+
+table,td{
+  border: 10px solid black;
+  border-width:2px;
+  border-style: solid;
+  border-color: black;
+  border-collapse: collapse;
+  }
+
+  p{
+    height: 75px;
+    overflow: scroll;
+    padding: 10px;
+    border: 1px solid black;
+    border-top: 10px solid orange;
+    border-left: 10px solid orange;
+    border-width: 30px;
+    margin: 20px;
+
+    }
+    ::-webkit-scrollbar{
+      -webkit-appearance:none;
+      width: 7px;
+
+    ::-moz-scrollbar-thumb {
+      border-radius: 4px;
+      background-color: rgba(0,0,0,.5)
+      box-shadow: 0 0 1px rgba(255,255,255,.5);
+    }
+    }
