@@ -1,4 +1,4 @@
-
+/*
 nav {
   width: 100%;
   background-color: white
@@ -22,7 +22,7 @@ ul.navigation {
     ul.navigaton a:hoover{
       background-color: black;
       color: white;
-
+/*
   }
 .col{
   float: left;
